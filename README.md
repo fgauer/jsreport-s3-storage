@@ -13,7 +13,7 @@ Configure your config options as follows in the global jsreport's prod.config.js
     "s3ReportOutputStorage": {
       "accessKeyId" : "yourS3AccessKeyId",
       "secretAccessKey" : "yourS3SecretAccessKey",
-      "s3OutputBucketName ": "yourS3BucketName",
+      "s3OutputBucketName": "yourS3BucketName",
       "s3OutputBaseURI": yourS3BucketRegion Base URI - Example: "https://s3-us-west-2.amazonaws.com"
     },
     
